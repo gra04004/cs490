@@ -1,0 +1,8 @@
+#!/bin/bash
+# name: John Doe 
+# CS490
+# Project1
+# filename prj1
+# Instructor- Wayne Boyer
+# Shell script to be used to run the application and get timing data
+time python  prj1.py $1
